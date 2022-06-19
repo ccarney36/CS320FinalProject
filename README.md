@@ -1,6 +1,6 @@
 # CS320FinalProject
 
-CS-320
+
 I ensure my code is functional and secure by using automated test suites and dependency vulnerability checks.
 
 To interpret user needs, it is helpful to formulate the need in terms of a user story and then write specific software requirement statements to address the need.
